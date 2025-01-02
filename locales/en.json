@@ -1,0 +1,27 @@
+{
+    "cooldown": {
+        "start": {
+            "title": "Start Cooldown",
+            "description": "Start Cooldown"
+        },
+        "remove": {
+            "title": "Reset Cooldown",
+            "description": "Reset Cooldown"
+        },
+        "menu": {
+            "title": "Cooldown Menu"
+        }
+    },
+    "input": {
+        "title": "Enter Cooldown",
+        "description": "Enter Cooldown"
+    },
+    "error": {
+        "title": "Error",
+        "description": "Invalid cooldown. Please enter a valid number."
+    },
+    "cancelled": {
+        "title": "Cancelled",
+        "description": "Cooldown cancelled."
+    }   
+}
