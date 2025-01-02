@@ -1,6 +1,6 @@
 🌟 Cooldown Priority Script: Manage Your Roleplay Emergencies Like a Pro! 🌟
 
-📺 Showcase Video: Watch on YouTube
+📺 Showcase Video: [Watch on YouTube](https://www.youtube.com/watch?v=A8z65gRB1e8)
 
 🎮 Framework Support:
 
